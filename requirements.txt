@@ -1,0 +1,9 @@
+sklearn
+flaml
+pandas-profiling
+pandas
+numpy
+matplotlib
+seaborn
+autoviz
+plotly
